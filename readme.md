@@ -7,7 +7,7 @@
   * Ranks players with medals/awards for getting 5, 4, and 3 correct (you can make it up, but think "gold, silver, bronze")
 3. Push your code up to GitHub and Slack the link out (in the "In Class" channel) for others to test it
 
-## Documentation
+# Documentation
 
 JavaScript Documentation can be found on WC3 here:
 
